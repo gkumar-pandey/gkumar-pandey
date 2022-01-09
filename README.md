@@ -1,3 +1,4 @@
+ <img src="https://www.freepik.com/free-vector/binary-code-digital-data-numbers-background_12686648.htm#query=programming%20language&position=36&from_view=keyword">
  <h1 align="center">Hi 👋, I'm Gautam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
