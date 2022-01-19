@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **i love to cook**
 
+- ⛰️ 2022 Goal -> Become a **Full Stack Developer**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gautamkp078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkp078" height="30" width="40" /></a>
