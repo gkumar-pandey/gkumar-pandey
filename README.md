@@ -30,7 +30,7 @@
 |![](https://github-readme-stats.vercel.app/api?username=gkumar-pandey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=gkumar-pandey&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=ranveersequeira&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=gkumar-pandey&theme=redical)
 
 <br>
 
