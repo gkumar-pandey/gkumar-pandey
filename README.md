@@ -12,6 +12,11 @@
 
 - ⛰️ 2022 Goal -> Become a **Full Stack Developer**
 
+<a href="https://www.twitter.com/gautamkp078" target="_blank"><img
+src="https://img.shields.io/twitter/follow/gautamkp078?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/gkumar-pandey" target="_blank"><img
+src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 <h3 align="left">Connect with me:</h3>
  <p align="left">
 <a href="https://dev.to/gkumarpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gkumarpandey" height="30" width="40" /></a>
@@ -29,6 +34,7 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
  </a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gkumar-pandey&show_icons=true&theme=dark&locale=en&layout=compact" alt="gkumar-pandey" /></p> -->
