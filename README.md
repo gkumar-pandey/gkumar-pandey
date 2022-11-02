@@ -37,6 +37,8 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
 </p>
 
+[![@gkpandey's Holopin board](https://holopin.me/gkpandey)](https://holopin.io/@gkpandey)
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gkumar-pandey&show_icons=true&theme=dark&locale=en&layout=compact" alt="gkumar-pandey" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gkumar-pandey&show_icons=true&theme=dark&locale=en" alt="gkumar-pandey" /></p>
