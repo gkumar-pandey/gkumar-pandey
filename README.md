@@ -1,5 +1,5 @@
  <div style="width:100%;" >
-  <img width="100%" height="350" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img width="100%"  src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 </div>
 
  <h1 align="center">Hi 👋, I'm Gautam</h1>
@@ -20,7 +20,7 @@ src="https://img.shields.io/twitter/follow/gautamkp078?logo=twitter&style=for-th
 /></a><a href="https://www.github.com/gkumar-pandey" target="_blank"><img
 src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
  <p align="left">
 <a href="https://dev.to/gkumarpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gkumarpandey" height="30" width="40" /></a>
 <a href="https://twitter.com/gautamkp078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkp078" height="30" width="40" /></a>
@@ -30,12 +30,12 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
 <a href="https://www.leetcode.com/gautam-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gautam-kumar" height="30" width="40" /></a>
 </p>
 
-# My Skills 🚀 
-<h2>👨‍💻Languages & Framework: </h2>
+## My Skills 🚀 
+<h3>👨‍💻Languages & Framework: </h3>
 
  ![My Skills](https://skillicons.dev/icons?i=py,c,cpp,css,html,js,md,nodejs,react,redux,tailwind,ts,mongodb,bootstrap)
  
- <h2>⚒️Tools:</h2>
+ <h3>⚒️Tools:</h3>
  
   ![My Skills](https://skillicons.dev/icons?i=git,github,firebase,linux,vercel,vscode,heroku,figma)
  
@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
 
  
 
-# Github Activity📊:
+## Github Activity📊:
 
 |![](https://github-readme-stats.vercel.app/api?username=gkumar-pandey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=gkumar-pandey&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
