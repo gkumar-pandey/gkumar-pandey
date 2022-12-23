@@ -30,23 +30,20 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
 <a href="https://www.leetcode.com/gautam-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gautam-kumar" height="30" width="40" /></a>
 </p>
 
-<h2 align="left"> My Skills 🚀</h2>
-<h3>👨‍💻Languages & Framework: </h3>
+# My Skills 🚀 
+<h2>👨‍💻Languages & Framework: </h2>
 
  ![My Skills](https://skillicons.dev/icons?i=py,c,cpp,css,html,js,md,nodejs,react,redux,tailwind,ts,mongodb,bootstrap)
  
- <h3>⚒️Tools:</h3>
+ <h2>⚒️Tools:</h2>
  
   ![My Skills](https://skillicons.dev/icons?i=git,github,firebase,linux,vercel,vscode,heroku,figma)
  
 <!--  ![My Skills](https://skillicons.dev/icons?i=py,git,github,c,cpp,css,express,firebase,git,github,html,js,linux,md,nodejs,react,redux,tailwind,ts,vercel,vscode,heroku,figma,mongodb,bootstrap,)  -->
+
  
-[![@gkpandey's Holopin board](https://holopin.me/gkpandey)](https://holopin.io/@gkpandey)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gkumar-pandey&show_icons=true&theme=dark&locale=en&layout=compact" alt="gkumar-pandey" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gkumar-pandey&show_icons=true&theme=dark&locale=en" alt="gkumar-pandey" /></p>
-<br> -->
+# Github Activity📊:
 
 |![](https://github-readme-stats.vercel.app/api?username=gkumar-pandey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=gkumar-pandey&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
@@ -57,12 +54,10 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
  |![](https://github-readme-stats.vercel.app/api/top-langs/?username=gkumar-pandey&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)|![](https://github-readme-streak-stats.herokuapp.com/?user=gkumar-pandey&theme=highcontrast )|
 |-|-|
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkumar-pandey&theme=radical"  display=block width=100% height=auto  alt="1" >
  
 
 
  
  
  
- 
-
-<img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png">
