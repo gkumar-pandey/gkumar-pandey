@@ -1,5 +1,5 @@
- <div style="width:100%;" >
-  <img width="100%"  src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+ <div   height="600" >
+  <img width="100%" height="350px" src="https://media.giphy.com/media/OCqzpPVXOR5LbEEQbs/giphy.gif" />
 </div>
 
  <h1 align="center">Hi 👋, I'm Gautam kumar pandey</h1>
