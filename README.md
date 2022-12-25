@@ -62,7 +62,9 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
  |![](https://github-readme-stats.vercel.app/api/top-langs/?username=gkumar-pandey&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)| ![](https://github-readme-streak-stats.herokuapp.com/?user=gkumar-pandey&theme=react&hide_border=false)|
 |-|-|
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkumar-pandey&theme=radical"  display=block width=100% height=auto  alt="1" >
+<img width="100%" height="80%" src="https://github-readme-activity-graph.cyclic.app/graph?username=gkumar-pandey&theme=react-dark&count_private=true" alt="gkumar-pandey" />
+
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkumar-pandey&theme=radical"  display=block width=100% height=auto  alt="1" > -->
  
  ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
