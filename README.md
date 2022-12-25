@@ -2,7 +2,7 @@
   <img width="100%"  src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 </div>
 
- <h1 align="center">Hi 👋, I'm Gautam</h1>
+ <h1 align="center">Hi 👋, I'm Gautam kumar pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkumar-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="gkumar-pandey" /> </p>
