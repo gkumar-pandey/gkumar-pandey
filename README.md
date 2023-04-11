@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
 ## My Skills 🚀 
 <h3>👨‍💻Languages & Framework: </h3>
 
- ![My Skills](https://skillicons.dev/icons?i=ts,js,react,tailwind,css,cpp,css,html,nodejs,redux,md,materialui,mongodb,bootstrap&perline=8)
+ ![My Skills](https://skillicons.dev/icons?i=ts,js,react,tailwind,bootstrap,materialui,css,html,nodejs,mongodb,md,cpp,py&perline=8)
  <br/>
  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
