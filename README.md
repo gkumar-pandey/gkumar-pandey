@@ -28,14 +28,12 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
 ## My Skills 🚀 
 <h3>👨‍💻Languages & Framework: </h3>
 
- ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,bootstrap,materialui,css,html,nodejs,mongodb,md,cpp,py&perline=8)
+ ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,bootstrap,materialui,css,html,nodejs,express,mongodb,md,cpp,py&perline=8)
  <br/>
  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
    ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
  
