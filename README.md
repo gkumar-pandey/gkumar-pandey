@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
 ## My Skills 🚀 
 <h3>👨‍💻Languages & Framework: </h3>
 
- ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,bootstrap,materialui,css,html,nodejs,express,mongodb,md,cpp,py&perline=8)
+ ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,bootstrap,materialui,css,html,nodejs,express,mongodb,md,cpp,py,go,java,redis,prisma,&perline=8)
  <br/>
  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
  
  <h3>⚒️Tools:</h3>
  
-  ![My Skills](https://skillicons.dev/icons?i=git,github,firebase,linux,vercel,vite,vscode,heroku,figma)
+  ![My Skills](https://skillicons.dev/icons?i=git,github,vim,firebase,linux,vercel,vite,replit,vscode,heroku,figma,androidstudio,aws)
  
 <!--  ![My Skills](https://skillicons.dev/icons?i=py,git,github,c,cpp,css,express,firebase,git,github,html,js,linux,md,nodejs,react,redux,tailwind,ts,vercel,vscode,heroku,figma,mongodb,bootstrap,)  -->
 
