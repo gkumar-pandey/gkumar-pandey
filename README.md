@@ -4,7 +4,10 @@
 <br><br>
 
  <h1 align="center">Hi 👋, I'm Gautam kumar pandey</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<!-- <h3 align="center">A passionate full-stack developer from India</h3> -->
+<div align="center" >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=2DD4BF&center=true&multiline=true&width=609&height=64&lines=A+Passionate+Full+Stack+Developer+;From+Bharat+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkumar-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="gkumar-pandey" /> </p>
 
