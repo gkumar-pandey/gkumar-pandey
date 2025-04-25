@@ -18,7 +18,7 @@
 - 📫 How to reach me **gautamshekhar078@gmail.com**
 - ⚡ Fun fact **I know how to exit vim**
 - ⛰️ 2024 Goal Explore **MERN Stack in-depth and Learn Golang**
-- Resume : [Gautam Kumar Pandey Resume](https://drive.google.com/file/d/1No4ho42LjL-0Lu0B35uhjOzYtdSSZEVh/view?usp=sharing)
+- Resume : [Gautam Kumar Pandey Resume](https://drive.google.com/file/d/1QhnG1zvI307pFXRTIb5iuO5GlXw1uT4S/view)
 
 <a href="https://www.twitter.com/gautamkp078" target="_blank"><img
 src="https://img.shields.io/twitter/follow/gautamkp078?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
