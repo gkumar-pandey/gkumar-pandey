@@ -20,7 +20,7 @@
 - ⛰️ 2025 Goal Explore **MERN Stack in-depth and Learn Golang** -->
 - Resume : [Gautam Kumar Pandey Resume](https://drive.google.com/file/d/1QhnG1zvI307pFXRTIb5iuO5GlXw1uT4S/view)
 
-<a href="https://www.twitter.com/gautamkp078" target="_blank"><img
+<a href="https://www.twitter.com/shekhar_tsx" target="_blank"><img
 src="https://img.shields.io/twitter/follow/gautamkp078?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/gkumar-pandey" target="_blank"><img
 src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
