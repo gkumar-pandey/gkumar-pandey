@@ -27,7 +27,8 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
 
 <h2 align="left">Connect with me:</h2>
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shekhar.tsx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gkpandey) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gautamkp078) 
+ [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://instagram.com/shekhar.tsx) [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/gkpandey) [![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://twitter.com/shekhar_tsx) 
+ [![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg)](https://t.me/shekar_tsx) 
 
 ## My Skills 🚀 
 <h3>👨‍💻Languages & Framework: </h3>
