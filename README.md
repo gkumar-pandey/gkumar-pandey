@@ -11,13 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkumar-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="gkumar-pandey" /> </p>
 
-- 🔭 I’m currently working on React Js and Next Js
-- 🌱 I’m currently learning **Golang**
-- 👯 I’m looking to collaborate on Web Development Project
-- 💬 Ask me about Web Development
+- 🔭 I’m currently working on **Android Development && MERN**
+- 🌱 I’m currently learning **React Native**
+- 👯 I’m looking to collaborate on Web & Android Development Projects
+- 💬 Ask me about MERN, Android, Backend, Devops
 - 📫 How to reach me **gautamshekhar078@gmail.com**
-- ⚡ Fun fact **I know how to exit vim**
-- ⛰️ 2024 Goal Explore **MERN Stack in-depth and Learn Golang**
+<!--- ⚡ Fun fact **I know how to exit vim**
+- ⛰️ 2025 Goal Explore **MERN Stack in-depth and Learn Golang** -->
 - Resume : [Gautam Kumar Pandey Resume](https://drive.google.com/file/d/1QhnG1zvI307pFXRTIb5iuO5GlXw1uT4S/view)
 
 <a href="https://www.twitter.com/gautamkp078" target="_blank"><img
