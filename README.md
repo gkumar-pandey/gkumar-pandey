@@ -48,7 +48,7 @@ src="https://img.shields.io/github/followers/gkumar-pandey?logo=github&style=for
  
   ![My Skills](https://skillicons.dev/icons?i=git,github,vim,firebase,linux,vercel,vite,replit,vscode,heroku,figma,androidstudio,aws)
  
-<!--  ![My Skills](https://skillicons.dev/icons?i=py,git,github,c,cpp,css,express,firebase,git,github,html,js,linux,md,nodejs,react,redux,tailwind,ts,vercel,vscode,heroku,figma,mongodb,bootstrap,)  -->
+ 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gkumar-pandey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
